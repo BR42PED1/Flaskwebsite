@@ -1,0 +1,4 @@
+/__pycache__
+/simpleApp.zip
+.DS_Store
+/flaskEnv
